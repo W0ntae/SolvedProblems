@@ -22,5 +22,3 @@ class LargestContainer {
     return maxArea;
   }
 }
-
-int testing;
